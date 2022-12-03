@@ -1,5 +1,5 @@
 {
-  "name": "Chetan",
+  "name": "Daniel",
   "headerTaglineOne": "Hello 👋",
   "headerTaglineTwo": "I'm Chetan Verma - curious",
   "headerTaglineThree": "designer and devloper",
@@ -10,20 +10,20 @@
     {
       "id": "1",
       "title": "Github",
-      "link": "https://github.com/chetanverma16"
+      "link": "https://github.com/Daniel947"
     },
     {
       "id": "2",
       "title": "LinkedIn",
-      "link": "https://www.linkedin.com/in/chetanverma7/"
+      "link": "https://www.linkedin.com/in/daniel-amoh-2185361ab"
     },
     {
       "id": "3",
       "title": "Twitter",
-      "link": "https://twitter.com/realchetanverma"
+      "link": "https://twitter.com/McdanielYamoah"
     },
-    { "id": "4", "title": "Blog", "link": "https://blog.chetanverma.com/" },
-    { "id": "5", "title": "Email", "link": "mailto:hello@chetanverma.com" }
+    { "id": "4", "title": "Blog", "link": "https://datasight.netlify.app/blog" },
+    { "id": "5", "title": "Email", "link": "mailto:owusudaniel4422@gmail.com" }
   ],
   "projects": [
     {
@@ -72,12 +72,12 @@
   "services": [
     {
       "id": "1",
-      "title": "Art Direction",
+      "title": "OSINT Expert",
       "description": "We help with the creation and development of online advertising ideas, with particular focus on their visual appearance."
     },
     {
       "id": "2",
-      "title": "Branding",
+      "title": "Data Engineering",
       "description": "We design key brand elements such as the logo, color scheme, typography, and other design components that makes your brand stand out from competitors."
     },
     {
